@@ -25,6 +25,7 @@ This application allows an existing text editior application to work as a PWA (w
 
 ## Deployed Link
 
+https://jate-text-edit-447d264f3054.herokuapp.com/
 
 
 ## Technologies Used
