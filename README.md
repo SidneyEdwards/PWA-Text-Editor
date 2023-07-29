@@ -10,9 +10,6 @@ This application allows an existing text editior application to work as a PWA (w
 
 ## Table of Contents
 - [Description](#description)
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Deployed Link](#deployed-link)
 - [Technologies Used](#technologies-used)
 
